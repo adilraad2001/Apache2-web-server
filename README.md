@@ -6,11 +6,15 @@ A Step-by-Step Guide To Set Up Apache2 HTTP Server
 
 Team Members: 
 
-EL RHAZOUANI Zineb ELOBBI Anass ERROKHSSY Abdelatti   ERRAAD Adil  
+EL RHAZOUANI Zineb 
+ELOBBI Anass 
+ERROKHSSY Abdelatti
+ERRAAD Adil  
+KARTIT Hicham  
+YOUSSI Kenza  
+SAID EL OUARDI 
 
-KARTIT Hicham  YOUSSI Kenza  SAID EL OUARDI 
-
-Major: Cyber Security 
+Major: **Cyber Security**
 
 **Index:** 
 
